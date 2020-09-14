@@ -1,0 +1,15 @@
+*.aux
+*.log
+*.dvi
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+*~
+*.maf
+*.mtc
+*.mtc0
+*.ptc1
+*.toc
+*.llt
+.DS_Store
